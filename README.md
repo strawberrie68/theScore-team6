@@ -1,7 +1,9 @@
  <img width="704" alt="Screenshot 2024-07-07 at 1 02 45 PM" src="https://github.com/strawberrie68/theScore-team6/assets/42231000/e6b53b85-2bd5-40ae-8a81-640cd556dd7a">
+ 
 ## 💭 The Problem
 
-Sports fans often face a significant drop in engagement with theScore App during the off-season when their favorite leagues are not live.
+Sports fans often face a significant drop in engagement with The Score App
+during the off-season when their favorite leagues are not live.
 
 ## 🏆Our Solution?
 

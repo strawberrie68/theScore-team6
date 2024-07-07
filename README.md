@@ -10,6 +10,7 @@ during the off-season when their favorite leagues are not live.
 We developed **The Rank**, a mobile app designed to keep sports fans engaged year-round by fostering a sense of community and teamwork. In The Rank, users collaborate daily to complete tasks such as trivia, workouts, and social media sharing, earning points for their team's overall score. The highest-ranking teams on the leaderboard can win exciting prizes, maintaining engagement and enthusiasm even during the off-season.
 
 ## 🍦 Link to Project
+[The Rank DEMO](https://the-rank.netlify.app/)
 
 ## 👩‍💻 How It's Made:
 
